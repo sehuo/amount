@@ -1,6 +1,6 @@
 ## 综述
 
-数量输入控件，支持步长、最大值、最小值设置，支持↑↓键，有限支持小数，可以自定义dom...
+数量输入控件，支持步长、最大值、最小值设置，支持↑↓键，有限支持小数，可以自定义dom见demo3
 
 * 版本：1.0
 * 作者：daqiu
@@ -21,11 +21,15 @@
 * minVal : 值下限，
 * maxVal : 值上限
 * elCls : 自定义控件顶层className
+
 ## Attributes
 * val : 当前值
 * el : 控件wrap节点
+
 ## Events
     所有的Attributes属性遵从http://docs.kissyui.com/docs/html/api/core/base/attribute.html事件方式
+
 ##Methods
 * increase : 加一步长
 * decrease : 减一步长
+
