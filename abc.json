@@ -1,0 +1,14 @@
+{
+    "name": "amount",
+    "version": "1.0",
+    "desc": "数量输入控件",
+    "cover": "",
+    "tag":"数量",
+    "author": {
+        "name": "daqiu",
+        "email": "daqiu.lym@taobao.com",
+        "page": ""
+    },
+    "type": "kissy-gallery",
+    "type-url": "http://gallery.kissyui.com/guide"
+}
