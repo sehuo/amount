@@ -14,6 +14,14 @@
     })
 
 ## Configs
+### container
+    必须，控件插入的容器
+### val 
+初始值，默认1
+* step 一次改变的变化值（步长），默认1
+* tip input title
+* minVal 值下限，
+* maxVal 值上限
 ## Attributes
 ## Events
 ##Methods
