@@ -1,0 +1,22 @@
+.ks-amount-wrap{position:relative;height:28px;display:block}
+.ks-amount-input{
+    color: #666;
+    font-size: 12px;
+    margin:0;
+    padding:3px 2px 0 3px;
+    height:26px;
+    border:1px solid;
+    border-color:#848484 #E0E0E0 #E0E0E0 #848484;
+    width:60px;
+    line-height:26px;
+    margin-left:16px;
+}
+.ks-amount-increase,.ks-amount-decrease{
+    position: absolute;
+    /*width:16px;height: 14px;*/cursor: pointer;
+    width:0;height:0;overflow:hidden;
+    border-style:solid;
+}
+.ks-amount-increase{left:85px;top:1px;border-width: 14px 0 14px 14px;border-color:transparent  transparent  transparent green;}
+.ks-amount-decrease{left:0;top:1px;border-width: 14px 14px 14px 0;border-color:transparent red transparent  transparent ;}
+
